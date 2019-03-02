@@ -1,0 +1,9 @@
+Post Request :-
+=============
+
+There are mainly three types of parameter used in Rest API's.
+
+1. Path Parameter.
+2. Query Parameter.
+3. Header Parameter.
+
